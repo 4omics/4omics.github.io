@@ -1,0 +1,35 @@
+{
+  "repositoryId": "R_kgDOILnnig",
+  "categories": [
+    {
+      "emoji": "",
+      "id": "DIC_kwDOILnnis4CSt2r",
+      "name": "Announcements"
+    },
+    {
+      "emoji": "",
+      "id": "DIC_kwDOILnnis4CSt2s",
+      "name": "General"
+    },
+    {
+      "emoji": "",
+      "id": "DIC_kwDOILnnis4CSt2u",
+      "name": "Ideas"
+    },
+    {
+      "emoji": "",
+      "id": "DIC_kwDOILnnis4CSt2w",
+      "name": "Polls"
+    },
+    {
+      "emoji": "",
+      "id": "DIC_kwDOILnnis4CSt2t",
+      "name": "Q&A"
+    },
+    {
+      "emoji": "",
+      "id": "DIC_kwDOILnnis4CSt2v",
+      "name": "Show and tell"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "index.qmd": {
+    "index.html": "445e477a"
+  },
+  "about.qmd": {
+    "about.html": "d1665d5e"
+  },
+  "about-rwds.qmd": {
+    "about-rwds.html": "f5069459"
+  },
+  "case-studies/index.qmd": {
+    "index.html": "c50efcac"
+  },
+  "case-studies/posts/2023/06/15/road-to-reproducible-research.qmd": {
+    "road-to-reproducible-research.html": "3525135a"
+  },
+  "case-studies/posts/2023/08/21/00-food-for-thought.qmd": {
+    "00-food-for-thought.html": "db5acc21"
+  },
+  "case-studies/posts/2023/08/21/01-purchase-to-plate.qmd": {
+    "01-purchase-to-plate.html": "b4aa3289"
+  },
+  "case-studies/posts/2023/08/21/02-competition-design.qmd": {
+    "02-competition-design.html": "9ec4830a"
+  },
+  "case-studies/posts/2023/08/21/03-first-place-winners.qmd": {
+    "03-first-place-winners.html": "0acd4101"
+  },
+  "case-studies/posts/2023/08/21/04-second-place-winners.qmd": {
+    "04-second-place-winners.html": "56871dc6"
+  },
+  "case-studies/posts/2023/08/21/05-third-place-winners.qmd": {
+    "05-third-place-winners.html": "77acc8a1"
+  },
+  "case-studies/posts/2023/08/21/06-value-of-competitions.qmd": {
+    "06-value-of-competitions.html": "1495727f"
+  },
+  "contact.qmd": {
+    "contact.html": "c4846803"
+  },
+  "ts-and-cs.qmd": {
+    "ts-and-cs.html": "e76361f9"
+  }
+}
