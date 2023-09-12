@@ -8,13 +8,10 @@ title-block-banner: true
 
 ## Contact
 
-**Email:** [b.tarran\@rss.org.uk](mailto:b.tarran@rss.org.uk)
+**Email:**  &ensp;[contact4omics\@gmail.com](mailto:contact4omics@gmail.com)
 
-<!-- **GitHub:** [\@realworlddatascience](https://github.com/realworlddatascience) -->
+**Twitter:**  &ensp;[\@4omics](https://twitter.com/4omics)
 
-**Twitter:** [\@rwdatasci](https://twitter.com/rwdatasci)
+**LinkedIn:**  &ensp;[4omics](https://www.linkedin.com/company/4omics)
 
-**LinkedIn:** [4omics](https://www.linkedin.com/company/4omics)
-
-<!-- **Mastodon:** [\@rwdatasci](https://fosstodon.org/@rwdatasci) -->
-
+<!-- ## [Terms & Conditions](/ts-and-cs.qmd) -->

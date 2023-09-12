@@ -81,24 +81,27 @@ website:
         background: "#000000"
         left: |
           Copyright &copy; 2023 4omics
-        center:  
+        right:  
           # - href: https://github.com/realworlddatascience
           #   icon: github
           #   aria-label: GitHub
-          - href: https://twitter.com/rwdatasci
+          # - href: mailto:contact4omics@gmail.com
+          #   icon: Mail
+          #   aria-label: Email
+          - href: https://twitter.com/4omics
             icon: twitter
             aria-label: Twitter
-          - href: https://fosstodon.org/@rwdatasci
-            icon: mastodon
-            aria-label: Mastodon
+          # - href: https://fosstodon.org/@rwdatasci
+          #   icon: mastodon
+          #   aria-label: Mastodon
           - href: https://www.linkedin.com/company/4omics
             icon: linkedin
             aria-label: LinkedIn
           # - href: feeds.html
           #   icon: rss
           #   aria-label: RWDS rss
-        right: |
-          [Terms & Conditions](/ts-and-cs.qmd)
+        # right: |
+        #   [Terms & Conditions](/ts-and-cs.qmd)
 
 format:
   html:
