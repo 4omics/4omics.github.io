@@ -25,6 +25,7 @@ website:
           # - case-studies/index.qmd
           - text: "Home"
             href: index.qmd
+          - services.qmd   
           - about.qmd
           - contact.qmd
           # - ideas/index.qmd

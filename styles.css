@@ -6,7 +6,7 @@
 .navbar {
   padding-top: 0;
   padding-bottom: 0;
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-size: 1em;
 }
 
@@ -150,7 +150,7 @@
 
 .quarto-title .quarto-categories .quarto-category {
   padding: 0.25em 0.75em;
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-size: .9em;
   font-weight: 400;
   color: #939bc9;
@@ -165,7 +165,7 @@
 }
 
 #title-block-header.quarto-title-block.default .quarto-title-meta-heading {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   text-transform: uppercase;
   margin-top: 1em;
   font-size: 0.9em;
@@ -174,7 +174,7 @@
 }
 
 #title-block-header.quarto-title-block.default .quarto-title-meta-contents {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   text-transform: uppercase;
   font-weight: 300;
   opacity: 0.8;
@@ -269,7 +269,7 @@ div.csl-entry {
 }
 
 .article-btn p {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-size: 1.3em;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -321,7 +321,7 @@ div.csl-entry {
 }
 
 .nav-btn p {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-size: 1.3em;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -344,7 +344,7 @@ div.csl-entry {
 /*-- sidebar --*/
 
 .sidebar nav[role=doc-toc]>h2, .sidebar nav[role=doc-toc]>.h2 {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-size: .875rem;
   font-weight: 500;
   text-transform: uppercase;
@@ -367,7 +367,7 @@ div.csl-entry {
 }
 
 .sidebar nav[role=doc-toc]>ul li a {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 500;
   line-height: 1.1rem;
   padding-bottom: 0.2rem;
@@ -381,7 +381,7 @@ div.csl-entry {
 }
 
 .toc-actions a {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 500;
   color: black;
 }
@@ -395,7 +395,7 @@ div.csl-entry {
 }
 
 .column-margin figcaption, .margin-caption, div.aside, aside, .column-margin p {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 400;
   color: black;
   font-size: .825rem;
@@ -421,7 +421,7 @@ div.csl-entry {
 }
 
 .pullquote p {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 500;
   font-size: calc(1.345rem + 0.85vw);
   color: black;
@@ -460,7 +460,7 @@ h5,
 .h5
 h6,
 .h6 {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   text-transform: none;
   letter-spacing: normal;
   font-weight: 500;
@@ -469,7 +469,7 @@ h6,
 }
 
 h1, .h1 {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 500;
   color: black;
   text-transform: uppercase;
@@ -478,7 +478,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 500;
   color: black;
   text-transform: none;
@@ -494,7 +494,7 @@ h2, .h2 {
 }
 
 body {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 400;
   color: black;
   letter-spacing: normal;
@@ -547,7 +547,7 @@ div.quarto-post {
 }
 
 div.quarto-post .metadata {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 300;
   text-transform: uppercase;
 }
@@ -555,7 +555,7 @@ div.quarto-post .metadata {
 div.quarto-post .listing-categories .listing-category {
   color: #939bc9;
   border: solid 1px #939bc9;
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 400;
   font-size: .75em;
 }
@@ -581,7 +581,7 @@ div.quarto-post a {
 }
 
 .nav-page .nav-page-text {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 500;
   text-transform: uppercase;
   color: black;
@@ -622,7 +622,7 @@ div.quarto-post a {
 .quarto-grid-item .listing-categories .listing-category {
   color: #939bc9;
   border: solid 1px #939bc9 !important;
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 400;
   font-size: .75em;
 }
@@ -632,7 +632,7 @@ div.quarto-post a {
 }
 
 .quarto-grid-item .card-attribution {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 300;
   color: black;
   flex-grow: 10;
@@ -788,7 +788,7 @@ div.quarto-post a {
 
 .pullout-text p {
   text-align: center;
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 500;
   color: white;
   margin-left: 1.5em;
@@ -817,7 +817,7 @@ div.quarto-post a {
 
 .button p {
   color: black;
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-size: 1.3em;
   text-transform: uppercase;
   margin-bottom: 0px;
@@ -844,7 +844,7 @@ div.quarto-post a {
 }
 
 .footer-text h3, .h3 {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   color: white;
   font-size: .875rem;
   font-weight: 500;
@@ -887,7 +887,7 @@ div.quarto-post a {
 
 .nav-footer {
   color: white;
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
   font-weight: 400;
   padding-left: 1.5em !important;
   padding-right: 1.5em !important;
@@ -917,11 +917,11 @@ body:not(.floating) .nav-footer {
 }
 
 .nav-footer-left {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
 }
 
 .nav-footer-right {
-  font-family: 'Montserrat';
+  font-family: 'Century Gothic';
 }
 
 
