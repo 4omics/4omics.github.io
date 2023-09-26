@@ -6,12 +6,12 @@
 .navbar {
   padding-top: 0;
   padding-bottom: 0;
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-size: 1em;
 }
 
 #quarto-header {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid white;
 }
 
 
@@ -45,17 +45,17 @@
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: black;
+  color: #EBEBEB;
   font-weight: 400;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-  color: #939bc9;
+  color: white;
   font-weight: 400;
 }
 
 .navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
-  color: #939bc9;
+  color: white;
 }
 
 .nav-item {
@@ -109,11 +109,12 @@
   margin-top: -1px;
   margin-bottom: 1.8em;
   border-bottom: 1px solid black;
-  background-color: #f0eeeb;
+  background-color: #141414;
 }
 
 .quarto-title-banner {
   margin-bottom: 0.75em;
+  background-color: #141414;
 }
 
 @media (max-width: 991.98px) {
@@ -127,6 +128,7 @@
 .quarto-title-banner {
     padding-top: 2.5em;
     padding-bottom: 0;
+    color: white;
 }
 }
 
@@ -138,7 +140,7 @@
   margin-top: 1.5em;
   font-weight: 400;
   font-size: 1.2em;
-  color: black;
+  color: white;
 }
 
 .quarto-title .quarto-categories {
@@ -150,7 +152,7 @@
 
 .quarto-title .quarto-categories .quarto-category {
   padding: 0.25em 0.75em;
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-size: .9em;
   font-weight: 400;
   color: #939bc9;
@@ -165,7 +167,7 @@
 }
 
 #title-block-header.quarto-title-block.default .quarto-title-meta-heading {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   text-transform: uppercase;
   margin-top: 1em;
   font-size: 0.9em;
@@ -174,7 +176,7 @@
 }
 
 #title-block-header.quarto-title-block.default .quarto-title-meta-contents {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   text-transform: uppercase;
   font-weight: 300;
   opacity: 0.8;
@@ -186,11 +188,11 @@
 
 body.nav-fixed {
   padding-top: auto;
-  background-color: #f0eeeb;
+  background-color: #fff;
 }
 
 #quarto-content {
-  background-color: #f0eeeb;
+  background-color: #fff;
 }
 
 #quarto-content>* {
@@ -236,7 +238,7 @@ div.csl-entry {
 
 #quarto-appendix.default {
   border-top: none;
-  background-color: #f0eeeb;
+  background-color: white;
   padding-top: 0;
   margin-top: 2.5em;
 }
@@ -257,7 +259,7 @@ div.csl-entry {
 .article-btn {
   border: none;
   border-radius: 0px;
-  background-color: black;
+  background-color: white;
   color: white;
   padding: 0.85em 1em;
   text-align: center;
@@ -269,7 +271,7 @@ div.csl-entry {
 }
 
 .article-btn p {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-size: 1.3em;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -311,7 +313,7 @@ div.csl-entry {
 .nav-btn {
   border: none;
   border-radius: 0px;
-  background-color: black;
+  background-color: white;
   color: white;
   padding: 0.85em 1em;
   text-align: center;
@@ -321,7 +323,7 @@ div.csl-entry {
 }
 
 .nav-btn p {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-size: 1.3em;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -344,7 +346,7 @@ div.csl-entry {
 /*-- sidebar --*/
 
 .sidebar nav[role=doc-toc]>h2, .sidebar nav[role=doc-toc]>.h2 {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-size: .875rem;
   font-weight: 500;
   text-transform: uppercase;
@@ -367,7 +369,7 @@ div.csl-entry {
 }
 
 .sidebar nav[role=doc-toc]>ul li a {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 500;
   line-height: 1.1rem;
   padding-bottom: 0.2rem;
@@ -381,7 +383,7 @@ div.csl-entry {
 }
 
 .toc-actions a {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 500;
   color: black;
 }
@@ -395,7 +397,7 @@ div.csl-entry {
 }
 
 .column-margin figcaption, .margin-caption, div.aside, aside, .column-margin p {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 400;
   color: black;
   font-size: .825rem;
@@ -421,7 +423,7 @@ div.csl-entry {
 }
 
 .pullquote p {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 500;
   font-size: calc(1.345rem + 0.85vw);
   color: black;
@@ -460,7 +462,7 @@ h5,
 .h5
 h6,
 .h6 {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   text-transform: none;
   letter-spacing: normal;
   font-weight: 500;
@@ -469,16 +471,16 @@ h6,
 }
 
 h1, .h1 {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 500;
-  color: black;
+  color: white;
   text-transform: uppercase;
   letter-spacing: normal;
   opacity: 1;
 }
 
 h2, .h2 {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 500;
   color: black;
   text-transform: none;
@@ -494,7 +496,7 @@ h2, .h2 {
 }
 
 body {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 400;
   color: black;
   letter-spacing: normal;
@@ -547,7 +549,7 @@ div.quarto-post {
 }
 
 div.quarto-post .metadata {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 300;
   text-transform: uppercase;
 }
@@ -555,7 +557,7 @@ div.quarto-post .metadata {
 div.quarto-post .listing-categories .listing-category {
   color: #939bc9;
   border: solid 1px #939bc9;
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 400;
   font-size: .75em;
 }
@@ -581,7 +583,7 @@ div.quarto-post a {
 }
 
 .nav-page .nav-page-text {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 500;
   text-transform: uppercase;
   color: black;
@@ -596,12 +598,12 @@ div.quarto-post a {
 
 .quarto-grid-item {
   border: none;
-  background-color: #f0eeeb;
+  background-color: white;
 }
 
 .quarto-grid-item.borderless {
   border: none;
-  background-color: #f0eeeb;
+  background-color: white;
 }
 
 .quarto-grid-item div.post-contents {
@@ -622,7 +624,7 @@ div.quarto-post a {
 .quarto-grid-item .listing-categories .listing-category {
   color: #939bc9;
   border: solid 1px #939bc9 !important;
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 400;
   font-size: .75em;
 }
@@ -632,7 +634,7 @@ div.quarto-post a {
 }
 
 .quarto-grid-item .card-attribution {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 300;
   color: black;
   flex-grow: 10;
@@ -788,7 +790,7 @@ div.quarto-post a {
 
 .pullout-text p {
   text-align: center;
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 500;
   color: white;
   margin-left: 1.5em;
@@ -817,7 +819,7 @@ div.quarto-post a {
 
 .button p {
   color: black;
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-size: 1.3em;
   text-transform: uppercase;
   margin-bottom: 0px;
@@ -844,7 +846,7 @@ div.quarto-post a {
 }
 
 .footer-text h3, .h3 {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   color: white;
   font-size: .875rem;
   font-weight: 500;
@@ -887,14 +889,14 @@ div.quarto-post a {
 
 .nav-footer {
   color: white;
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
   font-weight: 400;
   padding-left: 1.5em !important;
   padding-right: 1.5em !important;
 }
 
 body:not(.floating) .nav-footer {
-  border-top: 1px solid #f0eeeb;
+  border-top: 1px solid black;
 }
 
 .nav-footer a {
@@ -917,11 +919,11 @@ body:not(.floating) .nav-footer {
 }
 
 .nav-footer-left {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
 }
 
 .nav-footer-right {
-  font-family: 'Century Gothic';
+  font-family: 'Lexend';
 }
 
 

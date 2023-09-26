@@ -14,7 +14,7 @@ website:
     # repo-actions: [edit, issue]
     # google-analytics: "G-1TTWB7YTR6"
     navbar:
-        background: "#f0eeeb"
+        background: "#000"
         logo: images/4omics-removebg.png
         logo-alt: "4omics"
         title: false
