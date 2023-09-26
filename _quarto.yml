@@ -15,7 +15,7 @@ website:
     # google-analytics: "G-1TTWB7YTR6"
     navbar:
         background: "#000"
-        logo: images/4omics-removebg.png
+        logo: images/4omics-removebg-white.png
         logo-alt: "4omics"
         title: false
         collapse: true

@@ -10,12 +10,12 @@ title-block-banner: true
 ::: column-page
 
 ::: grid
-::: {.g-col-12 .g-col-lg-5 .top-story-text}
+::: {.g-col-12 .g-col-lg-12 .top-story-text}
 ## Welcome
-We are a bioinformatics company based in Thessaloniki, Greece, specializing in processing and analyzing high-throughput sequencing data. With a team of interdisciplinary experts, we deliver customized bioinformatics solutions to meet the unique needs of our clients. 
+**4omics** is a bioinformatics company company decoding omics data across life sciences. We bring together interdisciplinary experts, we deliver customized bioinformatics solutions to meet the unique needs of our clients.
 :::
-::: {.g-col-12 .g-col-lg-7}
-![](images/index.jpg){width="100%" fig-align="right"}
+::: {.g-col-12 .g-col-lg-12}
+![](images/index.jpg){width="75%" fig-align="center"}
 :::
 :::
 
@@ -23,7 +23,9 @@ We are a bioinformatics company based in Thessaloniki, Greece, specializing in p
 ::: {.header-text} 
 ::: {.content-container}
 ::: {.header-block}
+
 **We are here to partner with you!** We are here to collaborate with you, providing tailored and personalized bioinformatics services that meet your specific needs. Together, we will unlock the full potential of your data and drive impactful discoveries.
+
 :::
 :::
 :::
@@ -35,10 +37,16 @@ We are a bioinformatics company based in Thessaloniki, Greece, specializing in p
 ## **Improve the quality of your research!**
 
 *Our specialized bioinformatics services empower you to achieve higher standards and impactful outcomes.*
+:::
+
+::: {style="text-align: center;"}
+
+<br>
 
 ## **Place your trust in us!**
 
 *as we are guided by a team of experienced and dependable professional bioinformaticians and researchers.*
+
 :::
 
 <!-- <br> -->
