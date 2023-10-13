@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "4omics",
     "section": "",
-    "text": "4omics is a bioinformatics company company decoding omics data across life sciences. We bring together interdisciplinary experts, we deliver customized bioinformatics solutions to meet the unique needs of our clients.\n\n\n\n\n\n\n\n\n\n\n\n\nWe are here to partner with you! We are here to collaborate with you, providing tailored and personalized bioinformatics services that meet your specific needs. Together, we will unlock the full potential of your data and drive impactful discoveries.\n\n\n\n\n\n\n\nOur specialized bioinformatics services empower you to achieve higher standards and impactful outcomes.\n\n\n\n\n\n\nas we are guided by a team of experienced and dependable professional bioinformaticians and researchers."
+    "text": "4omics is a bioinformatics company company decoding omics data across life sciences.\nWe bring together interdisciplinary experts, we deliver customized bioinformatics solutions to meet the unique needs of our clients.\n\n\n\n\n\n\nOur specialized bioinformatics services empower you to achieve higher standards and impactful outcomes.\n\n\n\nas we are guided by a team of experienced and dependable professional bioinformaticians and researchers.\n\n\n\n\n\nWe are here to partner with you! We are here to collaborate with you, providing tailored and personalized bioinformatics services that meet your specific needs. Together, we will unlock the full potential of your data and drive impactful discoveries."
   },
   {
     "objectID": "services.html",
     "href": "services.html",
     "title": "Services",
     "section": "",
-    "text": "What do we provide for you?\n\nConsultation on commonly used bioinformatics analysis approaches\nWorkflow design, implementation, and result interpretation\nUtilization of Machine Learning methods on available omics and metadata and data integration\nExperimental design review\nGrant review (methods, data management plans, outreach)\nScientific data visualization\nSoftware as a service. Development of specialized tools (e.g., visualization) based on client needs.\nAssessment of research compliance with FAIR Principles (FAIR assessment/pipelines/data) - build repositories for your publications!!\nAdaptation of bioinformatics analyses based on the “Green Computing model\n\n\n\n\nEmbark on a secure and seamless bioinformatics journey with us!"
+    "text": "What do we provide for you?\n\n\nOmics Data Analysis: 4omics specializes in comprehensive omics data analysis. We go beyond basic analysis, offering advanced statistical analysis, machine learning, multi-omics data integration, and data visualization. Our experts can develop customized software and workflows tailored to the specific requirements of your wet lab experiments, ensuring the highest quality results. Read more\nExperimental Design and Grant Writing: At 4omics, we assist in designing experiments and provide valuable insights for your research projects. Our team can even help you write grant proposals to secure funding for your future endeavors. By harnessing the power of bioinformatics, we enhance the quality and impact of your project proposals. Read more\nAssessment and Applications of FAIR and Green Computing: We emphasize the principles of FAIR (Findable, Accessible, Interoperable, and Reusable) data and Green Computing in our services. We ensure that your data is organized and accessible while minimizing environmental impact through efficient computing practices. Read more\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmbark on a secure and seamless bioinformatics journey with us!"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,47 @@
     "title": "Contact us",
     "section": "",
     "text": "Email:  contact4omics@gmail.com\nTwitter:  @4omics\nLinkedIn:  4omics"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "4omics",
+    "section": "Welcome",
+    "text": "Welcome\n4omics is a bioinformatics company company decoding omics data across life sciences.\nWe bring together interdisciplinary experts, we deliver customized bioinformatics solutions to meet the unique needs of our clients."
+  },
+  {
+    "objectID": "index.html#improve-the-quality-of-your-research",
+    "href": "index.html#improve-the-quality-of-your-research",
+    "title": "4omics",
+    "section": "Improve the quality of your research!",
+    "text": "Improve the quality of your research!\nOur specialized bioinformatics services empower you to achieve higher standards and impactful outcomes."
+  },
+  {
+    "objectID": "index.html#place-your-trust-in-us",
+    "href": "index.html#place-your-trust-in-us",
+    "title": "4omics",
+    "section": "Place your trust in us!",
+    "text": "Place your trust in us!\nas we are guided by a team of experienced and dependable professional bioinformaticians and researchers."
+  },
+  {
+    "objectID": "omics_data_analysis.html",
+    "href": "omics_data_analysis.html",
+    "title": "Services",
+    "section": "",
+    "text": "Omics Data Analysis\n\n\nOmics Data Analysis: 4omics specializes in comprehensive omics data analysis. We go beyond basic analysis, offering advanced statistical analysis, machine learning, multi-omics data integration, and data visualization. Our experts can develop customized software and workflows tailored to the specific requirements of your wet lab experiments, ensuring the highest quality results."
+  },
+  {
+    "objectID": "FAIR_Green_Computing.html",
+    "href": "FAIR_Green_Computing.html",
+    "title": "Services",
+    "section": "",
+    "text": "Omics Data Analysis\n\n\nAssessment and Applications of FAIR and Green Computing: We emphasize the principles of FAIR (Findable, Accessible, Interoperable, and Reusable) data and Green Computing in our services. We ensure that your data is organized and accessible while minimizing environmental impact through efficient computing practices."
+  },
+  {
+    "objectID": "experimental_design.html",
+    "href": "experimental_design.html",
+    "title": "Services",
+    "section": "",
+    "text": "Experimental Design and Grant Writing\n\n\nExperimental Design and Grant Writing: At 4omics, we assist in designing experiments and provide valuable insights for your research projects. Our team can even help you write grant proposals to secure funding for your future endeavors. By harnessing the power of bioinformatics, we enhance the quality and impact of your project proposals."
   }
 ]

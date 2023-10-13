@@ -1,0 +1,19 @@
+---
+title: "Services"
+subtitle: Experimental Design and Grant Writing
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+
+::: column-page
+
+#### Experimental Design and Grant Writing
+
+<br>
+
+- **Experimental Design and Grant Writing**: At 4omics, we assist in designing experiments and provide valuable insights for your research projects. Our team can even help you write grant proposals to secure funding for your future endeavors. By harnessing the power of bioinformatics, we enhance the quality and impact of your project proposals.
+
+
+:::

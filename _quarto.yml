@@ -25,7 +25,10 @@ website:
           # - case-studies/index.qmd
           - text: "Home"
             href: index.qmd
-          - services.qmd   
+          - services.qmd
+            # menu: 
+            # - text: "Omics Data Analysis"
+            #   href: omics_data_analysis.qmd
           - about.qmd
           - contact.qmd
           # - ideas/index.qmd

@@ -1,0 +1,19 @@
+---
+title: "Services"
+subtitle: Assessment and Applications of FAIR and Green Computing
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+
+::: column-page
+
+#### Omics Data Analysis
+
+<br>
+
+- **Assessment and Applications of FAIR and Green Computing**: We emphasize the principles of FAIR (Findable, Accessible, Interoperable, and Reusable) data and Green Computing in our services. We ensure that your data is organized and accessible while minimizing environmental impact through efficient computing practices.
+
+
+:::

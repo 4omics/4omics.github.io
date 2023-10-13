@@ -43,5 +43,14 @@
   },
   "services.qmd": {
     "services.html": "35df1390"
+  },
+  "omics_data_analysis.qmd": {
+    "omics_data_analysis.html": "9744c853"
+  },
+  "FAIR_Green_Computing.qmd": {
+    "FAIR_Green_Computing.html": "4906996a"
+  },
+  "experimental_design.qmd": {
+    "experimental_design.html": "567cad3e"
   }
 }

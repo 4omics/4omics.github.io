@@ -11,23 +11,31 @@ title-block-banner: true
 
 #### What do we provide for you?
 
--   Consultation on commonly used **bioinformatics analysis approaches**
+<br>
 
--   Workflow design, implementation, and result interpretation
+- **Omics Data Analysis**: 4omics specializes in comprehensive omics data analysis. We go beyond basic analysis, offering advanced statistical analysis, machine learning, multi-omics data integration, and data visualization. Our experts can develop customized software and workflows tailored to the specific requirements of your wet lab experiments, ensuring the highest quality results. [Read more](omics_data_analysis.qmd)
 
--   Utilization of **Machine Learning** methods on available **omics** and metadata and **data** **integration**
+- **Experimental Design and Grant Writing**: At 4omics, we assist in designing experiments and provide valuable insights for your research projects. Our team can even help you write grant proposals to secure funding for your future endeavors. By harnessing the power of bioinformatics, we enhance the quality and impact of your project proposals. [Read more](experimental_design.qmd)
 
--   Experimental design review
+- **Assessment and Applications of FAIR and Green Computing**: We emphasize the principles of FAIR (Findable, Accessible, Interoperable, and Reusable) data and Green Computing in our services. We ensure that your data is organized and accessible while minimizing environmental impact through efficient computing practices. [Read more](FAIR_Green_Computing.qmd)
 
--   Grant review (methods, data management plans, outreach)
+<!-- -   Consultation on commonly used **bioinformatics analysis approaches** -->
 
--   **Scientific data visualization**
+<!-- -   Workflow design, implementation, and result interpretation -->
 
--   Software as a service. Development of specialized tools (e.g., visualization) based on client needs.
+<!-- -   Utilization of **Machine Learning** methods on available **omics** and metadata and **data** **integration** -->
 
--   Assessment of research compliance with **FAIR Principles** (FAIR assessment/pipelines/data) - build repositories for your publications!!
+<!-- -   Experimental design review -->
 
--   Adaptation of bioinformatics analyses based on the "**Green Computing** model
+<!-- -   Grant review (methods, data management plans, outreach) -->
+
+<!-- -   **Scientific data visualization** -->
+
+<!-- -   Software as a service. Development of specialized tools (e.g., visualization) based on client needs. -->
+
+<!-- -   Assessment of research compliance with **FAIR Principles** (FAIR assessment/pipelines/data) - build repositories for your publications!! -->
+
+<!-- -   Adaptation of bioinformatics analyses based on the "**Green Computing** model -->
 
 <br>
 
