@@ -4,6 +4,8 @@ sidebar: false
 page-layout: article
 toc: false
 title-block-banner: true
+execute:
+  echo: false
 ---
 
 ## Contact
@@ -13,5 +15,14 @@ title-block-banner: true
 **Twitter:**  &ensp;[\@4omics](https://twitter.com/4omics)
 
 **LinkedIn:**  &ensp;[4omics](https://www.linkedin.com/company/4omics)
+
+```{r}
+#| column: body
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng = 22.94, lat = 40.64, popup = "4omics")
+```
 
 <!-- ## [Terms & Conditions](/ts-and-cs.qmd) -->
