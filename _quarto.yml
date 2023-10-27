@@ -110,7 +110,7 @@ website:
 
 format:
   html:
-    theme: [lux, styles.css]
+    theme: [lux, rwds.scss]
     css: styles.css
     toc: true
     page-layout: full

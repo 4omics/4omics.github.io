@@ -9,33 +9,53 @@ title-block-banner: true
 
 ::: column-page
 
-## Welcome
+
+## **Welcome**
 
 **4omics** is a bioinformatics company company decoding omics data across life sciences.
 
-We bring together **interdisciplinary experts**, we deliver **customized bioinformatics solutions** to meet the unique needs of our clients.
+We bring together **interdisciplinary experts**, we deliver **customized bioinformatics solutions** to meet the unique needs of our clients. [About us](about.qmd)
 
-::: {.header-block} 
-:::
-
-::: {style="text-align: center;"}
-## **Improve the quality of your research!**
-
-*Our specialized bioinformatics services empower you to achieve higher standards and impactful outcomes.*
-:::
-
-::: {style="text-align: center;"}
-## **Place your trust in us!**
-
-*as we are guided by a team of experienced and dependable professional bioinformaticians and researchers.*
-:::
-
-::: {.header-block} 
+::: header-block
 :::
 
 <br>
 
-**We are here to partner with you!** We are here to collaborate with you, providing tailored and personalized bioinformatics services that meet your specific needs. Together, we will unlock the full potential of your data and drive impactful discoveries.
+::: columns
+
+::: {.column width="50%"}
+
+
+::: {style="text-align: left;"}
+
+## **Explore what your biodata is saying!**
+
+Discover [our services](services.qmd)! 
+
+*Our specialized bioinformatics services empower you to achieve higher standards and impactful outcomes, guided by a team of experienced and dependable professional bioinformaticians and researchers.*
+
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](images/index.png){fig-align="center" width="100%"}
+
+:::
+:::
+
+::: header-block
+:::
+
+<br>
+
+::: {style="text-align: left;"}
+## **Partner with us**
+:::
+
+**We are here to partner with you!** We are here to collaborate with you, providing tailored and personalized bioinformatics services that meet your specific needs. Together, we will unlock the full potential of your data and drive impactful discoveries. [Contact us](contact.qmd)
 
 
 :::
