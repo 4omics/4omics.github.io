@@ -13,11 +13,11 @@ title-block-banner: true
 
 <br>
 
-- **Omics Data Analysis**: 4omics specializes in comprehensive omics data analysis. We go beyond basic analysis, offering advanced statistical analysis, machine learning, multi-omics data integration, and data visualization. Our experts can develop customized software and workflows tailored to the specific requirements of your wet lab experiments, ensuring the highest quality results. [Read more](omics_data_analysis.qmd)
+- **Omics Data Analysis**: 4omics specializes in analyzing various raw and processed omics data from different technologies. We go beyond basic analysis offering bespoke bioinformatics services that meet your expectations (machine learning, multi-omics data integration, data visualization, software, workflows). [Read more](omics_data_analysis.qmd)
 
-- **Experimental Design and Grant Writing**: At 4omics, we assist in designing experiments and provide valuable insights for your research projects. Our team can even help you write grant proposals to secure funding for your future endeavors. By harnessing the power of bioinformatics, we enhance the quality and impact of your project proposals. [Read more](experimental_design.qmd)
+- **Experimental Design and Grant Writing**: Our team can even help you empower your experimental design and grant application from the bioinformatic perspective. [Read more](experimental_design.qmd)
 
-- **Assessment and Applications of FAIR and Green Computing**: We emphasize the principles of FAIR (Findable, Accessible, Interoperable, and Reusable) data and Green Computing in our services. We ensure that your data is organized and accessible while minimizing environmental impact through efficient computing practices. [Read more](FAIR_Green_Computing.qmd)
+- **Assessment and Applications of FAIR and Green Computing**: We emphasize the principles of FAIR (Findable, Accessible, Interoperable, and Reusable) data and Green Computing in our services. [Read more](FAIR_Green_Computing.qmd)
 
 <!-- -   Consultation on commonly used **bioinformatics analysis approaches** -->
 

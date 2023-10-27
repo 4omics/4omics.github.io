@@ -17,52 +17,52 @@ Experimental design and grant writing are essential components of the scientific
 
 Here's an overview of both aspects that 4omics can be involved in your project:
 
-1. Experimental Design:
+1. **Experimental Design**:
 
 Experimental design is the process of planning and structuring experiments to ensure that they are robust, scientifically sound, and capable of generating meaningful results. A well-designed experiment minimizes bias, increases the likelihood of obtaining valid data, and ensures efficient resource utilization. Key elements of experimental design include:
 
-- Research Question: Clearly define your research question or hypothesis that you want to address with the experiment.
+- *Research Question*: Clearly define your research question or hypothesis that you want to address with the experiment.
 
-- Experimental Variables: Identify the independent (manipulated) and dependent (measured) variables. Consider potential confounding variables and how to control for them.
+- *Experimental Variables*: Identify the independent (manipulated) and dependent (measured) variables. Consider potential confounding variables and how to control for them.
 
-- Study Population: Determine the target population or sample for your study. Ensure that it is representative and adequately sized to detect meaningful effects.
+- *Study Population*: Determine the target population or sample for your study. Ensure that it is representative and adequately sized to detect meaningful effects.
 
-- Experimental Controls: Design control groups or conditions to compare with the treatment group. Controls help eliminate spurious results and isolate the effect of the independent variable.
+- *Experimental Controls*: Design control groups or conditions to compare with the treatment group. Controls help eliminate spurious results and isolate the effect of the independent variable.
 
-- Randomization: Use randomization to assign subjects or samples to treatment groups. Randomization helps minimize selection bias.
+- *Randomization*: Use randomization to assign subjects or samples to treatment groups. Randomization helps minimize selection bias.
 
-- Blinding: Implement blinding, where possible, to prevent biases in data collection and analysis. Single-blind and double-blind methods can be used.
+- *Blinding*: Implement blinding, where possible, to prevent biases in data collection and analysis. Single-blind and double-blind methods can be used.
 
-- Replication: Consider how many times you will replicate your experiments to ensure the reliability of results.
+- *Replication*: Consider how many times you will replicate your experiments to ensure the reliability of results.
 
-- Statistical Analysis: Plan the statistical methods you will use to analyze the data. This includes sample size calculations, hypothesis testing, and data visualization.
+- *Statistical Analysis*: Plan the statistical methods you will use to analyze the data. This includes sample size calculations, hypothesis testing, and data visualization.
 
-- Ethical Considerations: Ensure your experiment complies with ethical guidelines and obtains the necessary approvals, especially when involving human or animal subjects.
+- *Ethical Considerations*: Ensure your experiment complies with ethical guidelines and obtains the necessary approvals, especially when involving human or animal subjects.
 
-- Resources: Assess the resources required, including equipment, personnel, and budget, to conduct the experiment.
+- *Resources*: Assess the resources required, including equipment, personnel, and budget, to conduct the experiment.
 
-2. Grant Writing:
+2. **Grant Writing**:
 
 Grant writing is the process of preparing applications for research funding from government agencies, private foundations, or other institutions. A successful grant proposal persuades the funding agency that your research is valuable, feasible, and deserving of financial support. Key components of grant writing include:
 
-- Proposal Structure: Follow the guidelines provided by the funding agency regarding the structure and content of the proposal. Common sections include an abstract, introduction, literature review, research plan, timeline, budget, and references.
+- *Proposal Structure*: Follow the guidelines provided by the funding agency regarding the structure and content of the proposal. Common sections include an abstract, introduction, literature review, research plan, timeline, budget, and references.
 
-- Research Plan: Detail your research objectives, methodology, experimental design, and data analysis plan. Clearly articulate how your work will advance knowledge in your field.
+- *Research Plan*: Detail your research objectives, methodology, experimental design, and data analysis plan. Clearly articulate how your work will advance knowledge in your field.
 
-- Budget Justification: Provide a detailed budget, including personnel salaries, equipment costs, supplies, and other expenses. Justify the budget by explaining how each cost is necessary for the research.
+- *Budget Justification*: Provide a detailed budget, including personnel salaries, equipment costs, supplies, and other expenses. Justify the budget by explaining how each cost is necessary for the research.
 
-- Impact and Significance: Describe the potential impact of your research on the field, society, or industry. Explain the significance of the problem you're addressing.
+- *Impact and Significance*: Describe the potential impact of your research on the field, society, or industry. Explain the significance of the problem you're addressing.
 
-- References: Cite relevant literature to support the importance of your research and demonstrate that you are well-informed about the field.
+- *References*: Cite relevant literature to support the importance of your research and demonstrate that you are well-informed about the field.
 
-- Collaborations: Highlight any collaborations, partnerships, or institutional support that will strengthen your research project.
+- *Collaborations*: Highlight any collaborations, partnerships, or institutional support that will strengthen your research project.
 
-- Timeline: Create a timeline outlining the major milestones and expected completion dates for your research.
+- *Timeline*: Create a timeline outlining the major milestones and expected completion dates for your research.
 
-- Peer Review: Seek feedback from colleagues or mentors to improve the proposal's clarity, coherence, and persuasiveness.
+- *Peer Review*: Seek feedback from colleagues or mentors to improve the proposal's clarity, coherence, and persuasiveness.
 
-- Compliance: Ensure that your proposal complies with the specific requirements and submission deadlines of the funding agency.
+- *Compliance*: Ensure that your proposal complies with the specific requirements and submission deadlines of the funding agency.
 
-- Editing and Proofreading: Carefully edit and proofread your proposal to eliminate errors and enhance its professionalism.
+- *Editing and Proofreading*: Carefully edit and proofread your proposal to eliminate errors and enhance its professionalism.
 
 :::

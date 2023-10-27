@@ -17,32 +17,32 @@ title-block-banner: true
 
 4omics offers services for key omics data analysis areas:
 
-- Genomics: Genomics is the study of an organism's complete set of DNA, including all its genes and non-coding regions. Genomic data analysis involves tasks such as DNA sequencing, variant calling, genome assembly, and annotation.
+- **Genomics**: Genomics is the study of an organism's complete set of DNA, including all its genes and non-coding regions. Genomic data analysis involves tasks such as DNA sequencing, variant calling, genome assembly, and annotation.
 
-- Transcriptomics: Transcriptomics focuses on the analysis of RNA molecules, particularly messenger RNA (mRNA), to understand gene expression patterns and regulation. Techniques like RNA-Seq and microarray analysis are used to measure transcript levels.
+- **Transcriptomics**: Transcriptomics focuses on the analysis of RNA molecules, particularly messenger RNA (mRNA), to understand gene expression patterns and regulation. Techniques like RNA-Seq and microarray analysis are used to measure transcript levels.
 
-- Proteomics: Proteomics involves the study of all proteins in a biological sample. Analysis includes protein identification, quantification, and functional characterization. Mass spectrometry is a common tool for proteomics data analysis.
+- **Proteomics**: Proteomics involves the study of all proteins in a biological sample. Analysis includes protein identification, quantification, and functional characterization. Mass spectrometry is a common tool for proteomics data analysis.
 
-- Metabolomics: Metabolomics aims to characterize the small molecules (metabolites) present in a biological sample. It provides insights into metabolic pathways and how they respond to various conditions. Nuclear magnetic resonance (NMR) and mass spectrometry are often used in metabolomics research.
+- **Metabolomics**: Metabolomics aims to characterize the small molecules (metabolites) present in a biological sample. It provides insights into metabolic pathways and how they respond to various conditions. Nuclear magnetic resonance (NMR) and mass spectrometry are often used in metabolomics research.
 
-- Epigenomics: Epigenomics examines changes in gene activity and expression that do not involve alterations to the underlying DNA sequence. Analysis includes DNA methylation, histone modification, and chromatin structure studies.
+- **Epigenomics**: Epigenomics examines changes in gene activity and expression that do not involve alterations to the underlying DNA sequence. Analysis includes DNA methylation, histone modification, and chromatin structure studies.
 
-- Metagenomics: Metagenomics is the study of genetic material recovered directly from environmental samples, which may contain complex mixtures of microorganisms. It's widely used in microbiome research and involves the analysis of 16S rRNA, shotgun sequencing, and taxonomic classification.
+- **Metagenomics**: Metagenomics is the study of genetic material recovered directly from environmental samples, which may contain complex mixtures of microorganisms. It's widely used in microbiome research and involves the analysis of 16S rRNA, shotgun sequencing, and taxonomic classification.
 
 Omics data analysis typically follows a series of steps:
 
-- Data Acquisition: Generate or obtain raw data through techniques like DNA sequencing, microarray experiments, or mass spectrometry.
+- *Data Acquisition*: Generate or obtain raw data through techniques like DNA sequencing, microarray experiments, or mass spectrometry.
 
-- Preprocessing: Clean and preprocess the data to remove noise, correct for technical biases, and normalize data if needed.
+- *Preprocessing*: Clean and preprocess the data to remove noise, correct for technical biases, and normalize data if needed.
 
-- Data Analysis: Perform various analyses, such as differential expression analysis, pathway analysis, clustering, and data visualization.
+- *Data Analysis*: Perform various analyses, such as differential expression analysis, pathway analysis, clustering, and data visualization.
 
-- Integration: Integrate data from different omics layers to gain a holistic understanding of biological processes.
+- *Integration*: Integrate data from different omics layers to gain a holistic understanding of biological processes.
 
-- Interpretation: Interpret the results in the context of the biological question under investigation. This may involve identifying biomarkers, understanding regulatory networks, or discovering new biological insights.
+- *Interpretation*: Interpret the results in the context of the biological question under investigation. This may involve identifying biomarkers, understanding regulatory networks, or discovering new biological insights.
 
-- Validation: Experimentally validate key findings from the analysis using wet lab experiments.
+- *Validation*: Experimentally validate key findings from the analysis using wet lab experiments.
 
-- Visualization: Communicate the results through scientific publications, reports, or presentations.
+- *Visualization*: Communicate the results through scientific publications, reports, or presentations.
 
 :::
