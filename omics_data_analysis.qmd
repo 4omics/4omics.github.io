@@ -17,17 +17,17 @@ title-block-banner: true
 
 4omics offers services for key omics data analysis areas:
 
-- **Genomics**: Genomics is the study of an organism's complete set of DNA, including all its genes and non-coding regions. Genomic data analysis involves tasks such as DNA sequencing, variant calling, genome assembly, and annotation.
+- **Genomics**: Genomic data analysis involves tasks such as variant calling, genome assembly. Technologies: WGS, WES, target sequencing with short (Illumina) or long (Nanopore) reads, arrays.
 
-- **Transcriptomics**: Transcriptomics focuses on the analysis of RNA molecules, particularly messenger RNA (mRNA), to understand gene expression patterns and regulation. Techniques like RNA-Seq and microarray analysis are used to measure transcript levels.
+- **Transcriptomics**: Transcriptomics focuses on the analysis of RNA molecules, particularly messenger RNA (mRNA). Technologies: RNAseq, single cell RNAseq, microarrays.
 
-- **Proteomics**: Proteomics involves the study of all proteins in a biological sample. Analysis includes protein identification, quantification, and functional characterization. Mass spectrometry is a common tool for proteomics data analysis.
+<!-- - **Proteomics**: Proteomics involves the study of all proteins in a biological sample. Analysis includes protein identification, quantification, and functional characterization. Mass spectrometry is a common tool for proteomics data analysis. -->
 
-- **Metabolomics**: Metabolomics aims to characterize the small molecules (metabolites) present in a biological sample. It provides insights into metabolic pathways and how they respond to various conditions. Nuclear magnetic resonance (NMR) and mass spectrometry are often used in metabolomics research.
+<!-- - **Metabolomics**: Metabolomics aims to characterize the small molecules (metabolites) present in a biological sample. It provides insights into metabolic pathways and how they respond to various conditions. Nuclear magnetic resonance (NMR) and mass spectrometry are often used in metabolomics research. -->
 
-- **Epigenomics**: Epigenomics examines changes in gene activity and expression that do not involve alterations to the underlying DNA sequence. Analysis includes DNA methylation, histone modification, and chromatin structure studies.
+- **Epigenomics**: Epigenomics include DNA methylation, histone modification, transcription factors, open chromatin. Technologies: 450K and 850K Illumina BeadChip Array, ChIPseq for histone markers, ChIPseq for transcription factors, ATACseq, single cell ATACseq.
 
-- **Metagenomics**: Metagenomics is the study of genetic material recovered directly from environmental samples, which may contain complex mixtures of microorganisms. It's widely used in microbiome research and involves the analysis of 16S rRNA, shotgun sequencing, and taxonomic classification.
+- **Metagenomics**: Metagenomics is a branch of genomics that focuses on the study of genetic material recovered directly from complex environmental samples, often containing a mixture of microorganisms. Technologies: 16S rRNA Sequencing, Shotgun Metagenomic Sequencing, 
 
 Omics data analysis typically follows a series of steps:
 
