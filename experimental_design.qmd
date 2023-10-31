@@ -15,11 +15,11 @@ title-block-banner: true
 
 Experimental design and grant writing are essential components of the scientific research process, particularly in academia and research institutions. 
 
-Here's an overview of both aspects that 4omics can be involved in your project:
+4omics has a strong background in successful grant applications and is here to assist you with:
 
 1. **Experimental Design**:
 
-Experimental design is the process of planning and structuring experiments to ensure that they are robust, scientifically sound, and capable of generating meaningful results. A well-designed experiment minimizes bias, increases the likelihood of obtaining valid data, and ensures efficient resource utilization. Key elements of experimental design include:
+At 4omics, we customize experimental designs to meet your specific research needs, optimizing the integration of bioinformatics methods. Our experts provide guidance on selecting the most effective data collection methods and technologies to ensure high-quality input for bioinformatic analysis and robust statistical power for your results. Key elements of experimental design include:
 
 - *Research Question*: Clearly define your research question or hypothesis that you want to address with the experiment.
 
@@ -43,7 +43,7 @@ Experimental design is the process of planning and structuring experiments to en
 
 2. **Grant Writing**:
 
-Grant writing is the process of preparing applications for research funding from government agencies, private foundations, or other institutions. A successful grant proposal persuades the funding agency that your research is valuable, feasible, and deserving of financial support. Key components of grant writing include:
+Our team offers expert support in preparing grant proposals, ensuring that your research objectives align seamlessly with the bioinformatic design. Furthermore, 4omics can help you create a comprehensive budget plan, ensuring that grant funds are allocated effectively for bioinformatics analysis. Key components of grant writing include:
 
 - *Proposal Structure*: Follow the guidelines provided by the funding agency regarding the structure and content of the proposal. Common sections include an abstract, introduction, literature review, research plan, timeline, budget, and references.
 
