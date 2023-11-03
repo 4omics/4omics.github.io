@@ -5,6 +5,10 @@ sidebar: false
 page-layout: article
 toc: false
 title-block-banner: true
+include-in-header: 
+  text: |
+    <script type="text/javascript" src="navbar-effect.js"></script>
+
 ---
 
 ::: column-page
@@ -12,7 +16,7 @@ title-block-banner: true
 
 ## **Welcome**
 
-**4omics** is a bioinformatics company company decoding omics data across life sciences.
+**4omics** is a bioinformatics company decoding omics data across life sciences.
 
 We bring together **interdisciplinary experts**, we deliver **customized bioinformatics solutions** to meet the unique needs of our clients. [About us](about.qmd)
 

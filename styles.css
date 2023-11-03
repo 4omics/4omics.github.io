@@ -8,6 +8,11 @@
   padding-bottom: 0;
   font-family: 'Montserrat';
   font-size: 1em;
+  transition: opacity 0.3s ease; /* Smooth transition effect */
+}
+
+.transparent {
+    opacity: 0.7; /* Set the desired transparency level (0.7 means 70% opacity) */
 }
 
 #quarto-header {

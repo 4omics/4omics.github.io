@@ -19,8 +19,9 @@ website:
         logo-alt: "4omics"
         title: false
         collapse: true
-        collapse-below: sm
+        collapse-below: md
         search: false
+        pinned: true
         right:
           # - case-studies/index.qmd
           - text: "Home"

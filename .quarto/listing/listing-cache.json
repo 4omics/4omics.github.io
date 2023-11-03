@@ -1,8 +1,0 @@
-{
-  "listingMap": {
-    "case-studies\\index.qmd": [
-      "posts",
-      "!index.qmd"
-    ]
-  }
-}
