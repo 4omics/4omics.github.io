@@ -21,7 +21,7 @@ website:
         collapse: true
         collapse-below: md
         search: false
-        pinned: true
+        # pinned: true
         right:
           # - case-studies/index.qmd
           - text: "Home"
