@@ -26,10 +26,15 @@ website:
           # - case-studies/index.qmd
           - text: "Home"
             href: index.qmd
-          - services.qmd
-            # menu: 
-            # - text: "Omics Data Analysis"
-            #   href: omics_data_analysis.qmd
+          # - services.qmd
+          - text: "Services"
+            menu:
+            - text: "Omics Data Analysis"
+              href: omics_data_analysis.qmd
+            - text: "Experimental Design and Grant Writing"
+              href: experimental_design.qmd
+            - text: "FAIR and Green Computing"
+              href: FAIR_Green_Computing.qmd
           - about.qmd
           - contact.qmd
           # - ideas/index.qmd

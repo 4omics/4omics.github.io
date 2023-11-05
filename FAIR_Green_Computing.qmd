@@ -9,7 +9,7 @@ title-block-banner: true
 
 ::: column-page
 
-#### Omics Data Analysis
+#### FAIR and Green Computing
 
 <br>
 
