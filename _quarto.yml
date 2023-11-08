@@ -5,6 +5,12 @@ project:
 website:
     title: "4omics"
     image: images/4omics-removebg.png
+    google-analytics: 
+        tracking-id: "G-WMCF5TCTK5"
+    cookie-consent:
+        type: express
+        style: simple
+        palette: dark
     # favicon: images/rwds-favicon.png
     # twitter-card:
     #   site: "@rwdatasci"
@@ -21,7 +27,7 @@ website:
         collapse: true
         collapse-below: md
         search: false
-        # pinned: true
+        pinned: true
         right:
           # - case-studies/index.qmd
           - text: "Home"
