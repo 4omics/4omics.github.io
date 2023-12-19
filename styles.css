@@ -11,22 +11,14 @@
   transition: opacity 0.3s ease; /* Smooth transition effect */
 }
 
+/* make navbar transparent during scroll */
 .transparent {
-    opacity: 0.7; /* Set the desired transparency level (0.7 means 70% opacity) */
+  opacity: 0.8; /* Set the desired transparency level (0.8 means 80% opacity) */
 }
 
-#quarto-header {
-  border-bottom: 1px solid white;
-}
-
-
-.navbar-brand.navbar-brand-logo {
-  display: flex;
-  padding-top: 0;
-  padding-bottom: 0;
-  margin-right: 0;
-  margin-left: 1.5em;
-}
+/* #quarto-header {
+  border-bottom: 1px solid black;
+} */
 
 @media (max-width: 991px) {
   .navbar-brand.navbar-brand-logo {
@@ -42,26 +34,42 @@
 }
 
 @media (max-width: 991px) {
-.navbar-logo {
-  max-height: 100px;
-  width: auto;
-  align-items: baseline;
-}
+  .navbar-logo {
+    max-height: 100px;
+    width: auto;
+    align-items: baseline;
+  }
 }
 
-.navbar-dark .navbar-nav .nav-link {
-  color: #EBEBEB;
+.nav-link.menu-text {
+  color: black;
+  font-weight: 400;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  background-color: #676767;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover > .menu-text {
+  color: white;
+  font-weight: 500;
+}
+
+/* .navbar-dark .navbar-nav .nav-link {
+  color: black;
   font-weight: 400;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
   color: white;
+  background-color: #676767;
   font-weight: 400;
 }
 
 .navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
   color: white;
-}
+  background-color: #676767;
+} */
 
 .nav-item {
   margin-top: 5rem; 
@@ -69,15 +77,15 @@
 
 @media (max-width: 1200px) {
   .nav-item {
-    margin-right: 0.5rem;
-}
+      margin-right: 0.5rem;
+  }
 }
 
 @media (max-width: 991px) {
   .nav-item {
     margin-top: 0;
     margin-right: 0rem;
-}
+  }
 }
 
 .aa-DetachedSearchButton {

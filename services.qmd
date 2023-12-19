@@ -5,6 +5,9 @@ sidebar: false
 page-layout: article
 toc: false
 title-block-banner: true
+include-in-header: 
+  text: |
+    <script type="text/javascript" src="navbar-effect.js"></script>
 ---
 
 ::: column-page
