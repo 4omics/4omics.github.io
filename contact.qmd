@@ -22,10 +22,22 @@ include-in-header:
 ```{r}
 #| column: body
 
-library(leaflet)
+suppressWarnings(library(leaflet))
 leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng = 22.94, lat = 40.64, popup = "4omics")
+    setView(lng = 22.9922789, lat = 40.572625466870484, zoom = 11) %>%
+    addTiles() %>%  # Add default OpenStreetMap map tiles
+    addMarkers(lng = 22.9922789, lat = 40.572625466870484, popup = "4omics")
 ```
+
+::: {style="text-align: right; font-size: 80%;"}
+<br>
+*Steliou Kazatzidi 47, 570 01<br>* 
+*Thermi, Thessaloniki<br>*
+*Hellas*
+
+:::
+
+
+
 
 <!-- ## [Terms & Conditions](/ts-and-cs.qmd) -->
